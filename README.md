@@ -31,6 +31,7 @@ Then in the repo on GitHub: Settings → Pages → Source: **GitHub Actions**.
 | `myst.yml` | MyST project config |
 | `images/` | Photos (badge blurred, metadata stripped), map, time-lapse (MP4 + GIF) |
 | `code/eclipse_pop.py` | Population with ≥X% eclipse coverage, Nov 2026–Nov 2031 |
+| `code/boulder_eclipses.py` | Every eclipse visible from Boulder: times, coverage, duration |
 | `code/make_timelapse.py` | Builds the first-grader drawings time-lapse |
 
 ## Re-running the numbers
