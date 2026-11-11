@@ -1,0 +1,15 @@
+version: 1
+project:
+  title: Partial Eclipses >> Total Eclipses
+  authors:
+    - name: Tracy Eliasson
+  github: https://github.com/tkeim/eclipse-post
+  license: CC-BY-4.0
+  exclude:
+    - README.md
+    - CLAUDE.md
+    - notes.md
+site:
+  template: book-theme
+  options:
+    hide_toc: true

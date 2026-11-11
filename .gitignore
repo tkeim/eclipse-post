@@ -1,0 +1,14 @@
+_build/
+build_frames/
+timeLapseDrawings/
+de421.bsp
+*.npy
+__pycache__/
+.idea/
+# private notes
+CLAUDE.md
+notes.md
+# waiting on photographer's permission
+images/totality_mike_hay.jpg
+# unblurred originals, for the live talk only
+images_private/
