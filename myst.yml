@@ -9,7 +9,13 @@ project:
     - README.md
     - CLAUDE.md
     - notes.md
+    - footer.md
+    - drafts/**
 site:
   template: book-theme
+  parts:
+    primary_sidebar_footer: footer.md   # replaces "Made with MyST"
   options:
     hide_toc: true
+    logo: images/logo.png          # replaces the top-left "Made with MyST"
+    logo_alt: I love eclipses
