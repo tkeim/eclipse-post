@@ -17,5 +17,6 @@ site:
     primary_sidebar_footer: footer.md   # replaces "Made with MyST"
   options:
     hide_toc: true
+    hide_outline: true             # no "Contents" box on the page
     logo: images/logo.png          # replaces the top-left "Made with MyST"
     logo_alt: I love eclipses
