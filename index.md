@@ -92,7 +92,7 @@ They're not all scientifically accurate. One kid drew a smiling sun with rays. B
 
 :::{figure} images/colander_pair_2017.jpg
 :label: fig-colander
-:alt: Two photos side by side. Left: an adult and a child holding a metal colander over a sidewalk; in its shadow, a card and the pavement are covered with small crescents. Right: the shadow of a person holding a colander; on a card in the colander's shadow, dozens of crescents are arranged in the colander's hole pattern.
+:alt: Two photos side by side. Left: an adult and a child holding a metal colander over a sidewalk; in its shadow, a card and the pavement are covered with small crescents. Right: a close-up of the colander's shadow on the sidewalk; on a card inside it, dozens of crescents are arranged in the colander's hole pattern.
 
 **Left:** the setup: one kitchen colander, one helper, one index card. **Right:** the result. Each hole makes its own crescent, and together they reproduce the colander's hole pattern. The arrangement comes from the colander; the shape of each spot comes from the Sun.
 :::
