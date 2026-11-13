@@ -21,6 +21,8 @@ Totality above Madras, Oregon, August 21, 2017, the same day as the Boulder phot
 % Totality, April 8, 2024. Photo © Mike Hay, used with permission.
 % :::
 
+Partial eclipses tickle my brain in a way totality does not. They are my favorite kind of science: outdoor, community science, with the whole neighborhood looking at the same Sun through whatever has holes in it. The accessibility is a part of their magic. You don't go to a partial eclipse; it comes to you, and it comes back every few years. They last far longer, cost nothing, and show you something totality never can: the shape of the Sun, printed on the ground a thousand times over by every gap in every tree.
+
 :::{figure} images/boulder_2017_crescents.jpg
 :label: fig-crescents
 :alt: Hundreds of crescent-shaped spots of sunlight on a white card in the grass, projected through the gaps in a tree's leaves
@@ -28,7 +30,6 @@ Totality above Madras, Oregon, August 21, 2017, the same day as the Boulder phot
 Boulder, Colorado, August 21, 2017. The Sun was about 93% covered.
 :::
 
-Partial eclipses tickle my brain in a way totality does not. They are my favorite kind of science: outdoor, community science, with the whole neighborhood looking at the same Sun through whatever has holes in it. The accessibility is a part of their magic. You don't go to a partial eclipse; it comes to you, and it comes back every few years. They last far longer, cost nothing, and show you something totality never can: the shape of the Sun, printed on the ground a thousand times over by every gap in every tree.
 
 ## Totality is for travelers. Partials are for everyone.
 
