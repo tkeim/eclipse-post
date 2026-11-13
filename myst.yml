@@ -19,4 +19,5 @@ site:
     hide_toc: true
     hide_outline: true             # no "Contents" box on the page
     logo: images/logo.png          # replaces the top-left "Made with MyST"
-    logo_alt: I love eclipses
+    logo_alt: I love eclipses!
+    style: style.css               # Tracy Hand font (built by code/make_style.py)

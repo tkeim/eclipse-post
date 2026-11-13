@@ -32,11 +32,12 @@ Partial eclipses tickle my brain in a way totality does not. They are my favorit
 
 ## Totality is for travelers. Partials are for everyone.
 
-:::{margin}
-"I" = Claude and I.
-:::
+Together with claude\.ai, I estimated how many people will see each kind of eclipse from home in the next 5 years. Only about **1 in 80 people on Earth** lives in a path of totality, and most of them are in one eclipse: Spain, North Africa and the Middle East on August 2, 2027. Everyone else has to travel to totality. That means a plane ticket, a hotel booked a year or two ahead, time off work, and the luck of clear skies on one narrow strip of ground on one particular day. Most people can't do that.
 
-"I" estimated how many people will see each kind of eclipse from home in the next 5 years. Only about **1 in 80 people on Earth** lives in a path of totality, and most of them are in one eclipse: Spain, North Africa and the Middle East on August 2, 2027. Everyone else has to travel to totality. That means a plane ticket, a hotel booked a year or two ahead, time off work, and the luck of clear skies on one narrow strip of ground on one particular day. Most people can't do that.
+:::{figure} images/totality_infographic.png
+:label: fig-totality-people
+:alt: Infographic titled "Total solar eclipses, the next 5 years: 1 in 80 people on Earth lives in a path of totality." A grid of 80 person icons with one dark icon highlighted. Most of them are under one eclipse: Spain, North Africa and the Middle East on August 2, 2027.
+:::
 
 Partials are different. Roughly **6 in 10 people on Earth** will get a deep partial eclipse without leaving home, compared with about 1 in 80 for totality.
 
@@ -70,7 +71,7 @@ In 2017 I ran an impromptu eclipse activity at my kid's elementary school. We ha
 
 :::{figure} images/kid_eclipse_glasses_2017.jpg
 :label: fig-glasses
-:width: 80%
+:width: 100%
 :alt: A young child sitting in the grass wearing paper eclipse glasses, looking up at the Sun
 
 Taking a turn with the eclipse glasses. Boulder, August 21, 2017.
@@ -157,7 +158,7 @@ August 12, 2045 is the big one: 99% in Boulder, and Colorado Springs gets over f
 
 ### How I got these numbers
 
-**Eclipse coverage.** "I" computed the eclipse geometry for every new moon between November 2026 and November 2031 using [Skyfield](https://rhodesmill.org/skyfield/) and NASA JPL's DE421 ephemeris. For each of about 34,000 cities with more than 15,000 people ([GeoNames](https://www.geonames.org/)), "I" found the largest fraction of the Sun's disk covered while the Sun was above the horizon. To estimate population, I scaled each city up to its country's total, which assumes rural people are spread out like the cities around them. The Boulder tables use the same geometry at one location, minute by minute.
+**Eclipse coverage.** Together with claude\.ai, I computed the eclipse geometry for every new moon between November 2026 and November 2031 using [Skyfield](https://rhodesmill.org/skyfield/) and NASA JPL's DE421 ephemeris. For each of about 34,000 cities with more than 15,000 people ([GeoNames](https://www.geonames.org/)), we found the largest fraction of the Sun's disk covered while the Sun was above the horizon. To estimate population, I scaled each city up to its country's total, which assumes rural people are spread out like the cities around them. The Boulder tables use the same geometry at one location, minute by minute.
 
 **Eclipse by eclipse.** Out of every 1,000 people on Earth:
 
